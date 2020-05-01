@@ -1,0 +1,8 @@
+{
+  "name": "rn-ticker",
+  "version": "0.0.1",
+  "description": "A simple to use react native ticker",
+  "main": "index.js",
+  "author": "Gabriel Donadel Dall'Agnol",
+  "license": "MIT"
+}
