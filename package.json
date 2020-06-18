@@ -2,7 +2,22 @@
   "name": "rn-ticker",
   "version": "0.0.1",
   "description": "A simple to use react native ticker",
-  "main": "index.js",
+  "main": "lib/index.js",
   "author": "Gabriel Donadel Dall'Agnol",
+  "homepage": "https://github.com/gabrieldonadel/rn-ticker",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gabrieldonadel/rn-ticker.git"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "ticker",
+    "animated",
+    "react-native-ticker"
+  ],
+  "bugs": {
+    "url": "https://github.com/gabrieldonadel/rn-ticker/issues"
+  },
   "license": "MIT"
 }
